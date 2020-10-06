@@ -1,0 +1,10 @@
+note-on-spriggan-git.txt
+Last modified: Mon Oct 05, 2020  09:22PM
+
+Spriggan (Tremble) was written without the benefit of git. So this
+directory does not have a git commit history up to the point of
+a final .md file. It was added to a git repo when it was published as
+an ebook, so the git commit history only covers that. Don't go looking
+for early versions of the story in the git commit history.
+
+

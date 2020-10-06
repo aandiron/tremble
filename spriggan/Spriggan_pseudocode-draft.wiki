@@ -1,0 +1,385 @@
+writing/Spriggan_pseudocode-draft.wiki
+Last modified: Fri May 29, 2020  08:42PM
+
+# Spriggan Pseudocode draft
+
+
+## Frame 
+(h6 (######) is a scene; Each top-level + is a graf; sub +s are things to hit
+in that graf, plain content is draft text)
+----------------------------------------
+
+###### They drive out to where the powerlines intersect the fire road
++ Opening dialog; see draft in planning file:
+	+ Establish a little fear of the place they are going
+	+ That she is brave, strong, and independent
+	+ That she is willing to cover work for her concerned, but potentially out of shape and perhaps lazy coworker
+	+ A little bit of the scene (swampy bottomland)
+	+ That she doesn't have kids; is potentially single because she likes being fit and free
++ Location shot; On the fire road:
+	+ [X] They turn off on the fire road, she gets out to lock the hubs on the old truck
+	+ [X] headed up the rough fire road in one of the most remote parts of the state
+	+ [X] towards the spot where the fire road intersects the powerlines right-of-way
+	+ [X] She's driving, it's an old standard transmission Blazer, super bumpy, windows open, warm day
+	+ [X] Headed uphill, the intersect is at the top of the hill
++ They reach the top:
+	+ [-] The fire road continues down the other side of the mountain to come out somewhere in the next county over
+	+ [X] Admire the quiet and the view with the engine shut off
+		+ [X] The engine ticking quietly as it cools
+	+ [X] The powerlines march down the hill, running for miles out across swampy bottomland; across which mists float
+	+ [-] The powerlines continue up the hillside above them on the right and disappear over the top, headed toward some city
++ Dialog: Joshua reiterates his fear
++ She gears up while talking to him:
+	+ [X] She pulls gear from the back of the truck: kevlar chaps, chainsaw, high waterprof hiking boots that lace up over her calves. 
+		+ [X] Small chainsaw; clippers; machete
+		+ [X] A climbing harness (which maybe she uses later?)
+		+ [X] Radio
+		+ [-] Sprays deet on herself (perhaps the fairies smell it later and dislike it)
+			[you might need to ditch the deet -- see notes further down]
+		+ [X] A gallon of water
+		+ [-] Emergency headlamp
+	+ [X] She essentially is Terminator 2 Linda Hamilton fit; it's like 30 or 40 pounds of gear 
+		(This is where you should describe her physically, as required of a porno)
++ Dialog: She gives him one last verbal punch and heads off down the power line right-of-way
+	+ [X] He holds a pale-blue pack of cigarettes in his hand, tapping them against his palm, waiting for her to leave so he can light up
+	+ [X] As he looks out over the descending landscape to where the belted sky of gray met the horizon
+		(Something like that to subtly hint at the clouds in the distance)
+	+ [X] Reminding her to check in on the radio every hour or so
+	+ [X] Mutters something about how some women find dad-bods hot
+
+###### She hikes the right of way
++ She hikes down the hill:
+	+ [X] It's dead quiet (the scene where they follow the power lines in Stalker)
+	+ [X] Kinda creepy, eerily quiet: no birds, no insects, no wind today, everything is very still except for her
+	+ [X] In summer the underbrush grows much faster than they can get out here to mow
+		[how to convey this without dialog or going inside her head?]
+	+ [X] It's all very green and lush; it smells of heat and wetness
+	+ [X] She's sweating pretty quickly, ties a bandana over her forehead, and drinks water regularly
+	+ [X] The underbrush is dense and slows her down a lot, thorns pulling at her chaps, 
+	+ [X] She thinks she sees the trees move against the wind - down away from her, in the flat at the bottom of the hill
+		[Is this too inside her head? I think just pointing out where she is looking is ok]
+	+ [X] she has to wack away with the machete in places; the swishing sound of it biting through the grassy green makes her think about whether it hurts the plants
+		[How to do this without going inside her head -- maybe Gaddis style: The machete cleaves through the wet green stalks, their quiet, patient, reaching lives cut short.]
+	+ [X] She only has to hike in a little more than 4 miles to the point where the powerlines fall under the jurisdiction of the next utility company. Slow as it is with the underbrush, she knows it's much faster moving down the hill than later when she'll have to climb back up it.
+		[Seems like you'll have to be in her head for this]
++ She is inspecting the right-of-way
+	+ [X] Making sure the buffer is not growing in
+	+ [X] Looking for sprouting trees
+	+ [X] Invasive species that might have to go: honeysuckle and buckthorn
+		+ [X] Bigger ones that she sees she'll stop to hack at the root with the machete, or clip them off with a sound that she almost unconsciously feels is sickening 
+	+ [X] Mostly she just has to note the condition of the right-of-way, not do much work herself; the chainsaw and clippers are for anything that might be an immediate threat to the powerlines
+		+ [X] If it looks bad she will have to call in mowers, and potentially herbicide application
+			(Mowers and herbicide: implied threat to the spriggan)
+	+ [X] She stops to chainsaw down a poplar --- a fast-growing tree that had already achieved ten feet or so under the powerline.
+		+ [X] The sound of the chainsaw is disturbingly loud and makes her feel vulnerable. She again has that sensation of taking a life as the tree collapses with a crunching sigh.
+			[Again, watch the trope of going inside her head]
+	+ [X] Dialog: she stops to check in with Joshua on the radio -- he can hear her chainsaw in the distance when she uses it (still tenuously connected to the world of man)
+
+###### Footprints into the woods; captured by vines
++ She sees footprints:
+	+ [X] A couple of hours in, the land flattens out and becomes swampier and wetter:
+	+ [X] The underbrush is less dense, but her feet sink in to the ankles with every step.
+	+ [X] The land gets muddier and wetter, and she sinks in even further. It's too wet for the longer grasses here, and instead it's just short very green freshly sprouted grasses that are trying to make a go of it on top of the mud.
+	+ [X] The concrete pylons that form the foundations for the powerlines look more exposed and wet here; they seem deeply misplaced and alien, structural and architectural with giant concrete feet planted in this soft and growing planty landscape.
+		[Again, think about how much you want to be inside her head]
+	+ [X] Without the long grasses and underbrush to hack through, the going is actually a little easier though.
+	+ [X] She sees footprints: a series of puddles that from where she's standing look strangely like a set of footsteps
+		(not sure the best/most tantalizing way to reveal this)
+		* She is about to step around a big puddle, when she notices another just like it a short way away. And then she notices a whole line of them, leading off into the woods -- like footprints.
+	+ [X] As she gets closer, she realizes that each "footprint" is something like the size of [watermelon]. Too big for any creature like a bear or a mountain lion. It must be some natural phenomenon.
++ She decides to follow the footprints:
+	+ [X] The trail intersects the right-of-way coming from the right, passing under the powerlines, and headed into the deeper swamp/woods
+	+ [X] At least she chooses to believe that's the way the footprints are running. She can't really tell of course, it just feels like that
+		[internal dialog - maybe unnecessary]
+	+ [X] She turns left as curiosity gets the better of her, she wants to see if she can find out how far they go, perhaps they reflect some underground rock feature or something? Maybe a weird action of fungus?
+	+ [X] She checks in on the radio with Joshua, tells him she 'wants to check something out...a patch of aggressive looking weed off in the woods a bit. Might need special attention with the herbicide' 
+		[note she tells him she's doing something weird, but doesn't tell him about the footprints]
+	+ [X] The woods to the left are dense, dim, and swampy. It feels good to get into the shade of the tree canopy and out of the exposed heat of the artificial linear clearing of the right-of-way
+	+ [X] Big loops of woody vines hang down from the branches, and in some places climb in knotty curls from the ground as if stretching up some kind of belly-crawling form to reach for the trees.
+	+ [X] With every step she sinks into the swampy ground
+	+ [X] A low cool mist sits above the floor of the woods
+	+ [X] It leaves damp drops on her clothes that cling to her chaps like little crystalline insects.
+	+ [For this section, see also description graf draft in Faeries section of planning]
+	+ [X] She hears the trees groan and clack as the breeze above bends their bodies and they knock their arms together like warriors psyching up for battle
+	+ [X] She can hear water trickling from some moving stream
+	+ [X] Insects and frogs buzz and chirp
+	+ [X] The ground seems to be alive with all manner of crawling things
+	+ [X] Small hovering bugs drift around her and occasionally alight on her shoulders; but they aren't mosquitoes, more like sweat bees, remoras that are traveling with her, companions who help her search in hopes of gaining a share of any bounty.
++ She sees lights in the woods:
+	+ [X] Off in the dimmest part of the forest ahead of her, her eye is suddenly caught by a light that appears.
+	+ [X] It has the same cold yellow-green luciferase glow as a firefly, but is much too bright to be a firefly
+	+ [X] It does hover for a moment, like a firefly, but then with an unnatural speed shoots off to the right before it resuming hovering
+	+ [X] She watches this for a minute or two, out of pure curiosity
+	+ [X] Then a second light joins the first, moving with a similarly staccato manner
+	+ [X] In a few minutes there are maybe a dozen.
+	+ [X] She guesses that they are off about a few hundred feet into the woods
+	+ [X] She moves towards them, curiosity driving her
++ The vines take her:
+	+ [X] As she moves in, the woods get closer and denser, and her feet sink into the soft ground even more. It is very slow going
+	+ [X] With her machete out she hacks at the most overgrown places
+	+ [X] She pushed a heavy vine from in front of her, not realizing that she has tripped two tiny hair triggers on the vine
+	+ [X] When she feels a tough woody tendril wrap around her wrist
+	+ [X] It's not a scream, but she lets out a noise of surprise; and she drops her machete
+	+ [X] She instinctively pulls her arms back towards her body, freeing herself from the tendril wrapped around her wrist
+	+ [X] She turns, and tries to take a step forward, but her foot is caught under a thick vine or root running along the ground
+	+ [X] She falls forward, into the looping arms of other vines.
+	+ [X] Suddenly it seems as if there are vines everywhere, roping limbs and tiny feelers creeping up her legs, around her arms.
+	+ [X] She tries to scream but a vine wraps around her chest, just under her breasts squeezing the air from her lungs 
+		(Does she also get one around the neck? across her mouth?)
+	+ [X] The vines twist and pull with an alien force.
+	+ [X] They spread her arms from her, the pull her legs apart, as if waiting for something to come take her
+	+ [X] She feels herself being lifted, wrapped in thick black woody bindings.
+	+ [X] She is raised up, not far, just a few feet off the ground.
++ The fairies come to examine her:
+	+ [X] Panicking, She can barely breathe, in short shallow breaths
+	+ [X] She looks around trying to make sense of her situation, but her vision is blurring.
+	+ [X] She knows she is going to pass out, but those lights that were off in the woods appear to be approaching.
+	[Do they swing away when they approach her -- not liking the deet?]
+	+ [X] Before she succumbs, she has the thought that totally makes sense to her half-concious state: "oh, the lights were faeries."
+
+##### Back with Joshua
++ Joshua is in the truck cab:
+	+ [X] smoking and listening to the classic metal radio station [zeppelin], which comes in through a little static up here.
+	+ [X] In to the radio --Come in Liza. Liza do you copy?
+	+ [X] --Shit. She hasn't responded in more than an hour. I'm going to have to do something.
+	+ [X] He lights a cigarette. Talking to himself through the cigarette. 
+	+ [X] The thing that worries him is that it is getting to the part of the day where he needed to hear from her that she had turned back to begin the return hike - otherwise she might not make it back before dark.
+		[make this dialog - he is talking to himself, or he says it on the radio]
+	+ [X] Even though he knows she has lights with her, he doesn't like the idea of her out there after dark.
+	+ [X] He decides to gear up and start hiking in after her - figuring most likely he'll meet her coming up the line and get chewed out for worrying too much. He decides it's worth the risk.
+	+ [X] He pulls his kevlar chaps and other gear on. Grabs the second (much heavier) chainsaw 
+	+ [X] Tries one last time to get her on the radio before leaving
+	+ [X] He opens the glove box and takes out a .38 revolver and puts it into his pocket.
+	+ [X] Looks at his cigarette pack - one third still remaining - and tosses it into the cab of the truck and heads down.
+	+ [Need some thing he brings that she would recognize with his bones]
+		+ Seems like the chaps or the chainsaw would work.
+
+##### She wakes up, the Spriggan comes...
++ She comes to, observes the forest:
+	+ [X] She comes to, the world resolving itself from darkness to light, and from light to a tableau of ancient ancestors taking the form of trees who are all watching her expectantly.
+	+ [X] It feels as if the vines have loosened, enough that she could breath comfortably, but not enough that she could work a limb free.
+	+ [X] It is dimmer now in the woods, the sun has moved behind the hills
+	+ [X] The forest feels alive, the trees shift with the wind as if they are excited about something.
+	+ [X] Small birds hop about and squirrels leap from tree to tree and make annoyed clattering noises.
+	+ [X] The insects crawl across the ground, in numbers that turn it to a landscape of shifting motion.
++ The Spriggan approaches:
+	+ [X] It approaches, but at first it is just a shadow surrounded by lights
+	+ [X] [First sighting paragraph - see draft text above]
+	+ [X] It is surrounded by faeries that dart quickly around it [like the sweat bees did her] everywhere they move they bring a circle of glowing light, and they move quickly enough to leave little trails of light forming letters of some forgotten language made up of quickly-made strokes.
+	+ [X] It approaches her, without rushing or jerky movements, like time ran at a different pace for the creature
+	+ [X] It stands over her looking down at her.
+	+ [X] The faeries start flittering around more quickly, as if they are excited by this moment, by this interaction with her.
+	+ [X] She controls the urge to scream; afraid that might cause it to react badly
+	+ [X] Through her fear, she reaches back and finds the little girls she was, who loved faeries. She holds on to that. She wants to like the faeries [fearies] but she finds their excitement disturbing.
+		[make this dialog? she says something out loud that makes the reader understand?]
+		[Or, better yet - do a misdirect here - let the reader think they are just cute storybook fairies - til later]
+	+ [X] He stands eerily motionless for what feels like a long time. Without motion in an unnatural way. He looks down at her with no expression on his face, but clearly considering.
+	+ [X] She is breathing heavily, her breath still short against the constriction of the vines.
+	+ [X] The unreality of what she sees approaching unloosens her mind:
+		[what does she say for real here? What would a person actually say; not a television character?]
+		+ [X] --Jesus Christ, you're some kind of bigfoot or something...
+		+ [X] --...Except you're some kind of plant-thing, not an ape-thing
+	+ [X] He continues motionless for a bit, apparently completely uncomprehending of her speech
+	+ [X] And then in a big sweeping move folds himself down to kneel in the soft earth. 
+	+ [X] It steps on her dropped machete, and it bends into a useless angle under its immense weight
+	+ [X] Its eyes come level with hers and it leans its head forward, examining her closely.
+	+ [X] Closer and closer, she can feel and smell his breath [see notes above]. Its eyes probe her soul.
+	+ [X] It is at this point where in a state of semi-panic and lack of power, control, or ideas, she does the only thing she can think of -- she leans forward and gently kisses his face.
+	+ [X] It is surprised by this; it's head pulls back in a motion that would almost be considered a jerk, if it weren't so fluid
++ It touches her:
+	+ [X] It's eyes go wide staring at her.
+	+ [X] It remains motionless for a disturbingly long time, just staring at her [thinking]
+	+ [X] Then with long slow motion the tips of his fingers move forward, until they touch her.
+	+ [X] They trace over her body, along her stomach, up over her breasts.
+	+ [X] It touches her face, gently but woodily.
+	+ [X] Her eyes close in a tight squint, it feels just like walking between trees with branches scratching her face.
+	+ [X] Its fingers run along her arms, tracing the lines of the muscles of her arms 
+	+ [X] Its fingers touch her knee, and slip up over the top of her thighs. She can only barely feel that through the kevlar, but when they reach the upper edge of the chaps, she is suddenly very aware of how close those thick heavy fingers are to her pussy.
+#### Sex scene #1
++ [You have to make this sex-scene work -- you can't put the sex off any longer in this story without it being a book]
+	[Particularly if you end up dividing it into two parts -- you need SOMETHING titillating in the first part]
+	+ [X] And she can't help herself, she feels her panties getting damp.
+	+ [X] She lets out a long breath, a sigh almost becoming a moan.
+	+ [X] Its fingers stop their motion at this and it again stands perfectly still.
+	+ [X] Its other hand rises up above her, and clamps on a vine above and pulls it slowly.
+	+ [X] This seems to drive some kind of mechanism in the vines -- She feels the vines pulling her legs apart.
+	+ [X] It's big hand wraps around her inner thigh, above the kevlar chaps.
+	+ [X] She can feel its fingers gripping her, all the way around her leg, squeezing the line of her ass through her heavy work pants.
+	+ [X] The grip is so strong and tight, and so close to her pussy, she can't help but shifting against it, trying to rub herself against this tightening pressure. Her hips move almost involuntarily. 
+	+ [X] She closes her eyes and tries not to think about what she is doing and put her fear aside. 
+		[maybe this is too much inside her head]
+	+ [X] The thing clamps its hand between her legs with a gripping force that somehow waves like wind in the trees
+	+ [X] Its arm is like a line pumping fluid pressure from his body into hers.
+	+ [X] She grinds her pussy against the pressure of it, and cums gasping.
+	+ [X] "Her orgasm churned through her like a fast-moving williwaw"
+	+ [X] The faeries seem to have lost interest, and fluttered off around them in the woods
++ It frees her from the vines, and carries her off 
+	+ [X] It stands to its full height, staring down at her.
+	+ [X] The faeries suddenly show up again, and get very excited by this, and dart around frenetically.
+	+ [X] It again stands completely motionless staring down at her [contemplating]
+	+ [X] It moves one huge open hand toward her in a slow fluid motion, which she watches with frightened eyes
+	+ [X] The hand tangles itself among the vines in a curious way. The vines pull against his hand for a moment and then she feels them relax their grip on her.
+	+ [X] She falls to the ground.
+	+ [X] She scrambles backward from it, trying to gain her feet.
+	+ [X] But now it has speed (though still fluid motion) it catches her around her narrow waist with both of its hands and lifts her into the air.
+	+ [X] Up onto its shoulder, where she is pinned under one massive unyielding horny hand, and turns and moves towards the darkest part of the forest.
+	+ [X] Clearly it is intent on carrying her off, and now she does scream --- long and loudly, for help.
+	+ [X] The thing does not seem to notice or care.
+	+ [X] The faeries flit around their heads arcing back and forth in long quick movements.
+#### Back to Joshua?
+[A quick interlude maybe]
++ Joshua hears her scream
+	+ [X] Joshua is still on the slope, when he hears a faint and far-off echoing scream.
+	+ [X] He pauses for a moment -- trying to hear more/better
+	+ [X] There is nothing, but he is deeply unsettled and starts moving more quickly down the ROW; plowing through thorny weeds that pull at his chaps
+		[subtly -- the plants are trying to slow him]
+#### The clearing
++ [X] It carries her through the forest:
+	+ [X] It moves through the woods, which steadily become denser and closer and blacker
+	+ [X] Her fear abates as she realizes she is powerless in its grip
+	+ [X] It travels quickly with long smooth strides, she sort of feels like she is flying, nearly 12 feet in the air, the ground whizzing by at an unvaried speed
+	+ [X] The ground and around continues to teem with life and wetness
+	+ [X] She does not know how long it moves like this.  And it is moving so fast that she has no idea how far they have gone.
++ They arrive at the clearing:
+	+ [X] It slows dramatically (and fluidly)
+	+ [X] Suddenly she's aware that it's brighter - they are in a clearing, out from under the cover of the woods
+	+ [X] But now it is twilight. The sun is setting somewhere out over the woods and hills where she can't see it.
+	+ [X] The sky over her head is a shade of orange-streaked gray clouds
+	+ [X] It sets her gently down on the mossy ground.
+	+ [X] The clearing is nearly perfectly circular, ringed with densely packed trees the grow right up to the edge of the clearing among long grasses that also ring the clearing.
+	+ [X] But the clearing itself seems to be a floor of stone covered with soft mosses, slightly domed, as if it is the peak of some buried stone hill.
+	+ [Is there a tree in the center of the clearing?]
+	+ [X] A quietly bubbling stream of clear water runs along one edge
++ It offers her a drink:
+	+ [X] The thing stoops and drinks from the stream, its hand scooping up huge draughts of water.
+	+ [X] After several draughts, it refills one hand and turn to move toward her.
+	+ [X] It holds out its cupped hand of water to her, its fingers sealed tightly enough together to form a bowl full of water that let only an occasional drop through to fall from the back its hand to the mossy ground
+	+ [X] It stood perfectly still, holding this offering out to her.
+	+ [X] She hesitates, but then, without taking her eyes from its own, leans down to immerse her lips in the water and drink.
+	+ [X] It is clear and cold, and utterly refreshing. She hadn't realized how thirsty she had gotten.
+	+ [X] When she lifts her head, it spreads its fingers and the water runs out between them.
+#### Sex scene #2
++ He touches her again
+	+ [X] As before, as if he wants to repeat the experience, he touches her, slipping his hand between her legs
+	+ [-] He rubs her through her clothes, and she enjoys it; she tilts her head back, and drops of water from her drink run down her neck and onto her chest
+	+ [X] She undoes her jeans and guides his hand inside
+	+ [X] He lifts her whole body up, holding her aloft in one big hand, squeezing her pussy; his big woody hands tear her panties to shreds, she cums
++ She blows him
+	+ [X] He puts her down, eye-level with his crotch
+	+ [X] [//]: # (It becomes He)
+	+ [X] [re-draft from notes draft about her first exploring to touch his stamen]
+	+ [X] She opens her shirt, to breathe better and be cooler, and her breasts are out while she sucks his stamen
+	+ [X] He cums, spreading dry sticky white powder all over her chest
+	+ [X] The faeries swarm around her, like pollinators spreading the powder all over her, particularly against her pussy 
+	+ [X] they chew away the rest of her clothes (right through the kevlar like it's nothing) [she is making the transition to a thing-of-the-woods --- leaving behind the things of man, like conventions about clothes and cleanliness] [though maybe the deet causes a problem here? ditch the deet?]
+		[Nah, I want so make sure to save her climbing harness]
+	+ [X] She is left naked and covered in white powder
+	+ [X] Naked she lays back on the warm moss [see first graf of draft first sex scene you wrote in notes about the warmth of the ground]
++ He fucks her from above
+	+ [X] He comes over the top of her and slides his stamen into her
+	+ [X] It's like the weight of an entire wood -- of ancient time, bearing down onto her. It is irresistible, a force of nature, like a hurricane, and she is helpless under it.
+	+ [X] Above the stars have come out between the clouds, and the faeries swim around giving the whole clearing a faint and ever-moving yellow glow
++ He holds her up, and uses her like a fuck-toy
+	+ [X] He lifts her up and fucks her standing, she rests her back on one of his huge hands, and slides her pussy onto his stamen
+	+ [X] A warm breeze comes up and the trees surrounding the clearing bow down to the tableau they form.
+	+ [X] He cums inside her. Pulls his stamen out and white power spills out of her pussy.
+	+ [X] The faeries go even crazier now, dancing around her pussy, fluttering against her nipples, her mouth, along the backs of her legs
+	+ [X] She cannot help but think now of the pollinators, of what that "cum" might do inside her [an inkling of pregnancy here]
+	+ [X] She falls asleep from exhaustion
+#### Back with Joshua
++ [X] Joshua gets to the place where she turned off into the woods
++ [X] It is getting dim evening light
++ [X] Sees her footprints sinking into the muck, and follows them
++ [X] He sees the vines closing in ahead, and fires up his chainsaw
++ [Here is the scene with joshua charging into the vines with the chainsaw -- see notes]
++ Don't forget the ground is soft and squishy here too.
+	(Maybe he sinks in further -- because he is heavier)
+#### She wakes in the clearing
++ [X] She wakes up to bright moonlight shining down into the clearing.
++ [X] The Spriggan is not there
++ [X] She is pale white, [like a butoh dancer] in the moonlight but warm and naked
++ [X] The faeries flit around above her
++ [X] She explores, finds bones at the edge of the clearing (not clearly human, yet). 
++ [X] When she moves to leave the clearing, the faeries stop her
++ [X] As soon as she touches the long grass at the edge of the ring, the fairies swarm in front of her, preventing her from leaving, sharp little mandibles snapping
+[not sure, maybe this only happens later when she discovers joshuas bones -- no I think at that point is when she accepts her fate -- by eating the pawpaw]
++ [X] She goes and lays down, but it takes a long time of watching the faeries darting around the edge of the woods before she falls asleep.
+#### Joshua death scene
+[See notes from planning file]
+#### The Spriggan returns
++ [X] The early morning light awakes her.
++ [X] She feels like she should be cold (early morning always seems like the coldest part of the day) but she isn't.
++ [X] The moss is warm and soft on her bare feet.
++ [X] The sky has turned dark gray and it seems like it is raining hard, but only a few drops seem to make it into the clearing
++ The Spriggan arrives back at the clearing
+	+ [X] She lay with her eyes closed, but a shift in the light told her that something had moved into the clearing. Opening her eyes she sees he has come, with is soft heavy movements, 
+	+ [X] The faeries are extremely excited swarming around something at the edge of the clearing behind him.
+	+ [X] It is raining even harder
+		Nah. Pathetic fallacy!
++ The Spriggan gives her something to eat - pawpaws!
+	+ [X] [but she doesn't know it's a pawpaw, just describe the fruits]
+	+ [X] [maybe she tries biting into it like an apple, but discovers the skin is gross, rips it off to get to the flesh]
+	+ [X] The skin is bitter, but the flesh is very sweet. She digs her nails through the skin and peels it back. And then pulls hunks of flesh from the fruit and it drips stickily down her fingers, her lips, her chin.
++ [X] The Spriggan goes to rest - standing perfectly still in one place in the clearing
+	+ [X] He stood without motion in the center of the clearing, as if he were some forest ancient who had called all the nutrients from the extent of his limbs into him, and deprived any younger growth from thriving in the clearing.
+	+ [X] She wanders around the clearing
+	+ [X] She moves to the bundle the Spriggan dropped at the edge of the clearing
+	+ [X] She realizes that it is human bones -- picked clean by the faeries
+	+ [X] And then she sees the kevlar vest [or create some object that Joshua would have had in the beginning - like his cigarette pack (though currently that is back in the truck)]
+	+ [X] She realizes the bones were Joshua
+	+ [X] white and sticky and naked, her hair matted and white, fruit in hand, juice running down her chin
+	+ [X] She continues eating the fruit, poking the bones over with her naked toe
++ Now she realizes how far out from her old life she has come in less than a day
+	+ The conversion from eating the fruit
+	+ Her journey into the heart of darkness
+	+ isolated and alone
+	+ but maybe she doesn't need all those other material and human things
+	+ Dropped out of life, with pawpaw in hand
+	+ The fruit is her return TO the garden of eden
+	+ She gets to forget the troubles and responsibilities of the world
+	+ Her reward: To have babies for some isolated scary male
+	+ Fuck politically correct
+	+ Just don't make it clear that this is a GOOD thing for her (that's why it's nice that she gets to ignore/accept the death)
+#### Final Spriggan sex scene
++ [Maybe this goes after he gives her the paw paw, when he returns with Joshua's body, but before she discovers it]
++ She wants it; she is part of this now
++ [X] Bring back in the climbing harness...
+	+ [X] She straps the harness around her legs. It secures like a belt, with straps that run under the curve of her ass and up between her legs.
+	+ [X] She wraps the heavy leather around the trunk of his body. The rough bark plating grips tightly against it.
+	+ [X] She snaps the caribiner to the leather strap wrapped around him, and steps up.
+	+ [X] Her feet are flat against his body, his long stamen pushes into her pussy
+	+ [X] She leans back stretching out her arms while he fucks her to orgasm like this
+#### Montage
++ It goes on like this for something like a week of days and nights. 
+	+ [X] Her entire life is fucking this thing, eating fruit, and relaxing in the warm clearing.
+	+ [X] He comes and goes. The faeries always monitoring them, though usually from a distance.
+	+ [X] She finds a new world of pleasures, focussed on the body, on life, on growing things.
++ [X] She loses track of time and herself.
++ [X] She is in one way transformed, a new being who belongs here. And in another way is a prisoner.
++ [X] Finally she awakes one morning to find the clearing empty. No Spriggan, no faeries.
++ [X] She considers it for a long while, but decides to leave her new self behind. And walks out of the clearing.
++ [ ] Nothing stops her and she walks and walks, for most of the day, stumbling naked through the dense woods. Not ever sure she's even going in a reasonable direction.
++ [X] The whole time she expect to suddenly see a faerie flitting in front of her, or hear the slow crunch of the creature walk behind her.
++ [X] But no. Eventually she stumbles out into the right of way [following it back to civilization]
++ [X] She is not following that for long before some rangers find her.
++ [ ] The rangers tell her they had been looking for them, but flooding had made searching very difficult.
+#### Coda
++ She doesn't tell anyone what happened to her.
++ But eventually decides to open up to her best friend.
++ "So that's your story? Do you think that really happened? Or did you hallucinate it?"
++ "I don't know. It feels like I was a different person --- actually a different kind of living thing entirely --- while I was there. Like when people talk about an out-of-body experience."
++ "So you escaped from an out-of-body experience?"
++ "That's the thing... I didn't 'escape' I just walked away. As if it were just _time_ for me to return, and they knew that. At least, that's what I thought at first, but as of today I think maybe it was something different."
++ "What do you mean?"
++ "Well, this morning... I had this feeling. And I tried a pregnancy test..."
++ "You're _pregnant_!?"
++ "Maybe. I feel like I am. But if I am, it is that creature's baby... and maybe the creature and faeries knew that... and they let me go."
++ "Why would they do that?"
++ "Maybe this is how they have always reproduced, they live on the edge of human societies, and have some kind of relationship with us. They ARE us, just a different branch, like Neanderthals... except somehow mixed with plants."
+
+
+
+
+
+
+

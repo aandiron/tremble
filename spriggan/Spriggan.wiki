@@ -1,0 +1,390 @@
+Spriggan.wiki
+Last modified: Mon Oct 05, 2020  09:27PM
+
+
+# Code-name "Spriggan"; planning and outlining
+
+## Tremble the Flowering Wood
+### By A. Andiron
+* Drafts:
+	* [Spriggan_pseudocode-draft](Spriggan_pseudocode-draft)
+	* [Spriggan_full-draft-1](Spriggan_full-draft-1)
+	* [Tremble_the_Flowering_Wood-passive_version](Tremble_the_Flowering_Wood-passive_version)
+* Final version:
+	* [Tremble_the_Flowering_Wood](Tremble_the_Flowering_Wood)
+
+ 
+ 
+## Overall...
+----------------------------------------
+
+If you reach 10k words, break it into two parts for posting on literotica
+
+* [X] Post Tremble to Medium:
+	* Tags:
+		* You can have 5 max
+		* After looking at it a bit, it seems you definitely want tags that reflect some of the big Medium topics, found on this page: https://medium.com/topics
+		* So use these tags:
+			* Sexuality
+			* Fiction
+		* And then also use:
+			* Erotica For Women
+			* hentai
+			* tentacles
+	* See:
+		* https://medium.com/@icyphox/mdium-publish-your-markdown-to-medium-from-the-cli-79906ef6b16b
+			* This one has instructions for posting using mdium
+		* https://github.com/icyphox/mdium
+		* https://github.com/icyphox/mdium/issues/2
+		* Looks like you might have to try pulling two stories from Literotica first to get the integration token
+* For a non-passive revision 2020-06-09:
+	* [X] Make a new revised copy (retain the old version for posterity)
+	* [X] Fix the arrow points from the Caroline read-through
+	* [X] She swallows when she first talks to him
+		* See if there's any other detail from the DP lyrics that you should borrow
+	* [X] He lets her out of the vine trap after she kisses him ... she is somehow enticed into letting him touch her... orgasm... then she WANTS to go with him
+		(The vines become a bondage misdirect --- no bondage sex in this story)
+		Why though? Why does she let him touch her? Why does she go with him? (Because he's friends with faeries maybe? She wants adventure?)
+	* [X] When the faeries chew off her clothes, they also chew the straps of her pack so it drops into the pile too
+	* [X] Remove the chainsaw lesson from the Joshua scene --- just have him reach too far and the tip of the saw catch in the knot, and whip the saw back at him. Anyone know knows saws will understand what happened.
+	* [X] When she sees Joshua's body:
+		She is still eating the FIRST fruit when she wanders around the clearing
+		She turns to him, tears welling in her eyes, "What have you done? What have you done to Joshua? You let these monsters have him? What have you done to _me_?"
+		"You're not a fantasy, you're a nightmare. Or, you aren't even that. You're the cold, unfeeling, unjudging chaos of nature. You have no intention, you just ARE."
+		She pulls the small chainsaw from her pack and drop-starts it, moving slowly toward him him
+		"I hate you, you know that?"
+			[Almost like she's talking to a dog, in some way she realizes that he is _nature_ and is not responsible --- she PUT the emotional qualities onto him]
+		Tears blur her vision of him, and run down her face in blah blah blah
+		He doesn't move. He just stares at her.
+		Then opens his hand and holds out the fruit to her.
+		She drops the chainsaw and the blade stalls in the moss
+		She accepts the fruit
+	* [X] Change ending to: instead of naming the baby Joshua, she's like "I don't know. I don't know." --- something to show some fear of the baby?
+
+* Other meta thoughts:
+	* What do the vines get out of it? How does the creature feed? Not revealed -- there's whole ecological loop there that isn't going to come into this story. Maybe a sequel.
+	* If she willingly goes with him, then maybe it turns into a nice misdirect
+		* The middle-aged housewife reader thinks it's just a fun fantasy story about a story-book creature, until it suddenly turns horror.
+* Caroline says: She's too passive; she should give more fucks, and be more passionate about what happens to her --- expresses a struggle with the situation she's in, not just accept it.
+	* In some ways, it's like the opposite of the consent argument -- that she SHOULD fight more. 
+	* Too much of a feeling of submission --- passivity in captivity
+	* There should be more of a reaction when she see Joshua's body
+	* The creature is exempt from emotional response --- but she isn't
+		* Does this turn into a sexual struggle between her and the creature 
+* Editing:
+	* [X] Do a pass through and make sure you get the timing down for everything. It has to all happen in a way that makes sense over 24 hours. All of that is getting confused because you are _so_ committed to having the faeries glowing overhead against the stars while they are having sex.
+	* [X] Also you need to resolve whether searchers go out looking for them in this story? What's the ending? Maybe they find her wandering the woods naked?
+	* [ ] Do a pass through and take out references to "looking" and "breathing" (and probably, in the case of porn, "gasping" as well)
+	* [X] Find and remove 'suddenly's
+	* [X] Do a pass through to check the tense 
+		(why is this so difficult to keep track of?)
+	* [ ] Do a pass through where you read each of the tense change sections individually.
+	* [X] Make sure you don't use emdashes TOO much
+	* [X] Edit your sentences shorter, except when doing descriptive work.
+		* Try to keep descriptive work to the sex scenes
+		* Remember to keep your sentences under control - one idea per sentence,
+		punchier and without clauses, accessible. Except maybe once in a while
+		you let yourself get descriptive and clausy.
+* [X] Yateveo - a fictional plant with snake-like tendrils that makes a sound like the Spanish ya-te-veo (I see you).
+* [-] turion - a plant bud capable of growing into a complete plant
+* [X] Liquid-green eyes, set deeply in a face carved up by dark shadows.
+* [X] Is there a way to get vim to highlight cursor location?
+	Not in the fancy way you were imagining, at least not easily. Instead, just use jkjkjk
+* [X] Look up: "Sprigging" is a word?
+	Planting sprigs of course
+* [X] Change name to something else from Lisa -- see notes below about name
+	Go with Liza
+* [ ] Have Amy read it and give you advice on plant-accuracy
+* [X] Look up: when writing fiction, how appropriate is it to talk about a characters thoughts?
+* [X] Go through the framing notes and make sure you aren't getting too inside a character's head
+	While being able to convey thoughts of a character is one of the powers of writing over television
+	In another way it just feels kinda cheap and silly (if it isn't first person anyway)
+	Try to convey thoughts with dialog (even if the character must talk to themselves)
+	Or with descriptions of their actions 
+	- think about how you can tell when you see two people meeting for the
+	  first time on a date in a coffee shop, even though they haven't said
+	  anything yet - in how they stand, how they interact when getting
+	  their coffee, whether one pays for the other, etc.
+
+
+## Themes:
+----------------------------------------
+* Wetness
+* plant-life
+* intersections of paths
+* Following a trail; choosing directions
+* Into the heart of darkness -- there to find life/sex
+* Pregnancy and reproduction and stasis vs job and mobility
+* stillness vs moving plant and fairy/insect life
+* whiteness = life and death
+* bigness vs smallness
+* Dolly Parton's Joshua --- big and scary, but a woman can get past that to find love
+	* Though the NAME joshua is a misdirect in this story --  the creature is Joshua from the song
+
+
+## Need a title:
+----------------------------------------
+* Don't call it 'spriggan' or anything that reveals that it is
+* plant-based (some people might think it's a bigfoot story)
+* "Tremble the Flowering Wood"
+* What Trembles the Flowering Wood
+* The Flowering Wood Trembles
+* ['tremble like a flower' are part of the lyrics to Bowie's Lets Dance]
+
+
+## Character development
+----------------------------------------
+### Lisa character
++ Her name: will be Lisa. Or... 
+	something that has the same class and character feel as Lisa...
+	Like Kat or Jane (like Jane Goodall?) But Jane is too plain, Jane Doe, etc
+	Leah would be good, but it's too star warsy
+	Linda? (oblique reference to Linda Hamilton)
+	Liza - it indicates a person who tried to make something more exotic of a dull given name - Elizabeth
+	
+
++ She is warm and soft and supple.
++ Blonde, with big breasts, small curvy body, and of course, tiny hands
+
++ She is inspecting the right-of-way of the power lines looking for sprouting
+trees, and invasive species like honeysuckle and buckthorn, and that the
+overhang in the border space remains clear
+
++ Draft first sex scene with the Spriggan:
+	She lay on the mossy floor of the clearing, feeling the warm life of the
+	ground seep up through her clothes and into her body. She lay with her
+	eyes closed, but a shift in the light told her that something had
+	moved into the clearing. Opening her eyes she sees he has come, with
+	is soft heavy movements, and stood without motion in the center of the
+	clearing, as if he were some forest ancient who had called all the
+	nutrients from the extent of his limbs into him, and deprived any
+	younger growth from thriving in the clearing.
+
+	She looks up at him. And up and up to his great towering height above
+	her. She stands to try to level the difference, but only comes up to
+	the crotch of his legs, her eyes level with the intricate layers of
+	petals that came together in that spot. She looks up at him, and now
+	he moves, his head inclines just slightly and his great wet eyes meet
+	hers.
+
+	She puts out her hand, and touches the tips of her fingers against the
+	cold bark armor of his thighs. She drags her fingers along, tracing
+	out the paths and cracks that seem to track and map some forgotten
+	land, perhaps some hellscape he as known and come through in a time
+	before humanoid memory. Her fingers rest gently upon the petals, and
+	her eyes never leave his -- silently making sure she has his
+	permission -- as the tips of her finger slip under the petals,
+	exploring, totally unsure what could be there.
+
+	She feels a movement, and into her hand come a stem, smooth and thick.
+	it uncurls to her touch, as she wraps her hand around it and slides
+	her hand up the length of it. And length there is -- almost as long as
+	her arm, and easily as thick as her wrist. It comes forth from its
+	iridescent base of petals and it is perfectly and totally milky white.
+	The perfect tool of the sex organs of a flower.
+
+	He doesn't move at her touch, but his eyes follow hers in an uncanny
+	way, as if he is interested in nothing but her, and only her through
+	what he can read in her eyes. It takes all of her will to break his
+	gaze and she leans over and kisses the white
+	stamen gently with her eyes closed. With both hands open she runs her
+	palms up the sides of it, barely caressing the cold walls with her
+	warm hands. She parts her lips and touches her tongue to it and finds
+	a fresh flavor, clean and barely present. Somehow it tastes healthy.
+	She slides her tongue slowly up the shaft and she puts her mouth over
+	the end of it. And now she looks up to find his eyes again, as if they
+	have never left hers. With her mouth wrapped around the end of this
+	long white shaft, she slips her tongue up and down against the
+	underside of the tip, sucking gently. She's not even sure to what end.
+	He is so alien it is impossible to even know what he might find
+	pleasurable. But he certainly is not turning her away. One of his huge
+	woody hand comes up and rests heavily on her small shoulders.
+
+
+### The fairies
++ Are very bright, a cold yellow light, like huge fireflies
+	(Which is what she mistakes them for when she sees them off in the
+	woods - this might be the thing that draws her into the swamp?)
++ They Move fast, hard to pin down visually, a lot of glimpses in peripheral vision
++ About the size of her hand, insect-like, but also human (female) like
+	You want to capture that they are sexy
+	But still alien
+	In the uncanny valley
+	iridescent scales
+	
++ They live in a glen, a fairy circle, a grove. Deep in the swamp, a clearing
+	+ The clearing is fresh and light, the movement of the woods/bugs/life comes right up to the edge of it.
+	+ Is there a tree that grows in the center of the clearing?
+	+ Sun pours in during the day, but it's not oppressively hot
+	+ The orange glow at sunset
+	+ When it rains, somehow even though it might be pouring over in the woods, only a few drops reach her.
+	+ When they have sex, it is moonlit, with the faeries flitting about above
++ Off on the edges of the clearing she sees the ivory glow of bones scattered about in the dark part of the woods - picked clean (because they are eaten by the
+fairies) some animals, but some clearly human.
+	+ Lisa mistakes the grove for the spriggans home (and his bones)
+	+ At some point she makes her way over to examine the bones and she finds human bones mixed in with the animal bones
+		(She brushes insects and daddy longlegs off the bones)
+	+ Eventually she sees the fairies working on a corpse (Joshua's) though - like
+	maggots - and realizes that it is their space. The spriggan just feeds them.
+		+ The Spriggan drops Joshua's body on the edge of the clearing AFTER they have sex a few times
+		+ Maybe after she realizes it is just trying to get her pregnant?
+		+ But she will realize the faeries are the ones who eat the bones because she sees them noshing on Joshua
+
++ Unlike the powerline path that was completely still, the approach to
+the grove is teeming with life and movement. The gentle wind that
+stirs the tops of the trees above makes the whole understory sway.
+Water drips from the leaves, and insect teem in their thousands
+disturbing the litter and mast of the forest floor. Thick black wooded
+vines hang in loops. The vines are the thing that binds around her,
+the first loops snapping around her wrist lighting quick, but
+following loops slowly wrapping her up until she's trapped.
+
++ Later, when it sprays pollen/semen all over her from it's cock/stamen the
+fairies flutter around her like pollinating insects, spreading the pollen all
+over her (and up into her?)
+
+
+### Joshua
++ He is a big portly dude. Has a big black beard -- Joshua from the Dolly Parton song.
+
++ Eventually (in a cut-scene) Joshua starts to panic and follows her down the
+hill. 
+
++ When Joshua sees knots of vines looping before him, he pulls out a large chainsaw and fires it up. He charges into the vines swinging the chainsaw, but it soon locks into a knot, the end catches in the wood and it shoots upwards. It would smack him in the head, but it lodges in a low-hanging branch overhead, becoming useless. The vines close in on him.
+
++ He will get picked up by the spriggan and eaten by the fairies. 
+
++ Joshua is stuck in the vines until dark -- play up his fear as the
+shadows move around him (Though there is a bright moon so he can see
+just enough to be terrified). Mirroring the actions when the Spriggan
+came for lisa, it kneels down and examines him closely. Then stands. It
+snaps off one of his limbs like a twig off a tree and holds it up in the
+air, blood pouring from it, and the fairies flutter around consuming the
+blood as it falls with such frenzy that none actually hits the ground.
+
++ Joshua, screaming, draws it's attention. It swivels its head around
+slowly. It crushes his head between massive fingers, like a potter
+creating a pinch pot or a sushi chef placing a wad of wasabi.
+
+
+### Spriggan character
++ Refer to it exclusively as 'it' throughout, to emphasize its non-humanness.
++ Let its human qualities come out in its actions
++ He comes from the darkness between trees. He is of bark, woody and hard and cold.  
++ Long hair that hangs down over his body.
++ His hair is of twig and moss. His body is of bark and green. His
+fingers long and of twig. Smell of dirt and earth. Slow moving,
+incredibly heavy. Solid as a rock - rooted in the earth. He is
+incredibly tall more than twice her height - 12 feet, can lift her
+up effortlessly. (How is he not an ent? - more huge and humanoid -
+half-ent.) Some kind of warmth too. Surrounded by flitting lighted
+faeries - possibly large lightning bugs, she can't see.
+	+ They light the woods while it fucks Lisa.
++ Slow, long muscle movements (not twitch).
++ His cock:
+	No:
+		A smooth, woody cock with a knot at the end.
+		When he cums, from it is not a spurt, but a seep. A white dew, like that of milkweed.
+	Instead:
+		The joint between his legs is covered by closed dark petals
+		That open when she stimulates him
+		And a long soft white stamen uncurls
+		Almost as long as her arm, and as thick as her wrist
+		From which, when he cums, pours a dry sticky powder that gets all over her of course
++ No human language. No sound of any kind. Perhaps he has no mouth.
++ deep long slow respirating breaths; a fresh breath full of oxygen when he breathes on her
++ low resonant groans, like trees in a dark breezy wood
++ His home is full of human skulls. He protects the forest. She has to
+seduce him to avoid becoming another of his casualties?
++ He has a big black beard - also like Joshua in the DP song?
+	(Like, the Spriggan is the TRUE Joshua? - big and scary, but has a soft spot for the right woman, while the "Joshua" in this story is a wimp who gets eaten by faeries?))
+		Side note: DP's Joshua is kinda almost erotica - how is taming the heart of a scary giant not the truest fantasy of so many women?
++ Spriggan 1st sighting draft description:
+	Then, from the darkness between the trees, she saw something large approaching
+	with with unbroken slow gliding movements. It revealed itself slowly, The
+	dimness fading from around it. As it came into the clearing, it resolved itself
+	into some kind of humanoid thing, but huge -- at least twice, maybe three times
+	her own height. With each step its weight sank into the earth, in a way that
+	suggested more permanent fixtures on the landscape, like a large boulder or a
+	decaying trunk, rather than the light flitting things of animal life.  What she
+	first took as a skin of bark, she soon discerned to be an outer covering,
+	mounted on core of thick green sinew, not entirely unlike the muscles of a
+	human man, strong and taut with liquid pressure, but pliable enough to give the
+	creature a full range of motion.  Covering that were hard heavy plates of bark,
+	a woody armor growing from the sinewy core of its body.  At the joint where its
+	legs came together there were large dark petals, like those of some deadly and
+	beautiful night-blooming tropical flower, layered tightly together.  From it's
+	head grew a long mass, like hair, but rough and thick and in color tones of
+	green and grey, and could be of small twigs and moss. The hair, matted and
+	twined, grew down over its shoulders and fell down its back.  From its face
+	grew a beard of similar stuff, but of a thick impenetrable blackness. Its face
+	had large deep eyes and human-like qualities, but it did not change in the
+	slightest in these first few moments she saw it. It appeared to take in the
+	world without a trace of emotion or visible reaction.
+
+
+
+
+
+## Opening dialog draft
+----------------------------------------
+--I don't like it.
+--You say that every goddamned time we go out! We have to inspect the power lines, that's our job.
+--But you shouldn't go alone...
+--Come on, that's just you holding on to some old-school sense of what kind of work women are supposed to do.
+--No... we're supposed to walk the lines as a team, because it's remote, and if someone gets hurt the other can go for help. It's just company policy.
+--You want to be there to keep me safe Joshua?
+--It's not that...
+--Then what is it really?
+--I just don't like you going into such remote areas alone --- particularly this time.
+--What's worse this time?
+--The line runs right through that swampy bottomland area... it's even more out there than out usual runs...and people say strange things about that land.
+--What? You mean like with those kids a bunch of years back? Joshua! Those are stories farmers tell to keep the bored teenagers out of their fields at night.
+--I don't know... I've heard other things since those kids...
+--Every two weeks we have this conversation when we go out to do our line inspections, and every two weeks it's the same thing: "I don't know, I've heard about rattlesnakes up there. I don't know those ravines are pretty steep..." Hell, you once didn't know if I should go because you heard there were a bunch of hippies out there smoking pot!
+--You can't trust hippies, or hipsters, or whatever they're called these days.
+--Joshua, look, it's the same as all the other times, I'll just hike up the line, complete our inspection, and hike back out, no problem. I have the radio, as usual, if anything goes wrong.
+--It's lik 8 miles, it's going to take you most of the day
+--The whole day, ya. Alone in the wilderness. It'll be great!
+--But I should really go with you --- that's how the job is *supposed* to work
+--I know, but you're just too old and fat. 
+--I'm only four years older than you!
+--Yeah, but you're fat. You should never have had kids! Look, we won't make it back before dark if you go. The company only has these team policies for insurance reasons. Rules come down from insurance companies about how they want things done, and everyone does the work in the way that actually gets things done. It's the way of the world these days.
+
+
+## Guiding questions and initial ideas
+----------------------------------------
++ How does she find this thing? 
++ WHY does she interact with it? 
++ What is she looking for?
++ Why is she in the space where she encounters him?
++ Vines that bind her, maybe that snag her, lift her off the ground.
++ She walks the enchanted forest?
++ Science or fantasy?
++ Soft footsteps in the mud, sand. She walks along a shore of something.
++ The footsteps fill with water slowly.
++ In his glen, human skulls and piles of bones
+	+ When he approaches her, he has to kneel to look her in the eye
+	+ She is afraid he will kill her, perhaps eat her
+	+ When he is close, she does the only thing she can think of - kiss him
+	+ Which gives him pause, piques his interest in her
+	+ Later, we find out it was the faeries that eat the people, he just brings them people who trespass
++ The faeries LET him have her.
+	+ He is their slave. They need him to bring them food. So they let him propagate once in a while
++ She realizes that the stamen is fitted exactly to her pleasure - 
+more so than any human penis. It evolved that way - to impregnate
+her with its next generation. It must have been doing this for near
+eternity, quietly in the forest, cross breeding like a neanderthal,
+but this is how it reproduces, almost a parasite on human kind. But
+more than that, its a melding of living nature and humans, plant and
+flesh. She IS nature, Though human.
++ (Is there a better way to reveal that it is trying to impregnate her?)
++ Maybe it's in standard past-tense until the sex scene then switched
+to present-tense? To emphasize the timelessness of her time fucking the spriggan
++ It will rain at some point --- probably late the first night or
+	the next morning; when Joshua is killed? The rain is to make it much
+	harder for any search party to find them. But you don't need to go into
+	explicit detail about any search party. It can just be implied.
+
+
+

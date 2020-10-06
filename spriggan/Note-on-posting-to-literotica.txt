@@ -1,0 +1,16 @@
+Note-on-posting-to-literotica.txt
+Last modified: Mon Sep 21, 2020  01:33PM
+
+Note on posting to Literotica
+
+Use command in tech notes for vim to combine all lines of all paragraphs.
+
+Replace _underbars_ with html <i>tags</i>
+
+
+What horrors and pleasures lie in the heart of the woods?
+...PRETTY sure it's lie not lay.
+
+
+
+
