@@ -1,0 +1,40 @@
+Note-on-final-files.txt
+Last modified: Mon Oct 12, 2020  08:45PM
+
+# Note-on-final-files
+This directory contains the draft development and final files for the story itself.
+
+
+## Files in this directory:
+
+* Tremble_the_Flowering_Wood-passive_version.wiki
+	* The first complete story as initiall submitted for publication on Medium.
+* Tremble_the_Flowering_Wood.wiki
+	* Revised story submitted for final publication on Medium using mdium.
+* Tremble_the_Flowering_Wood.md
+	* Same as above, but prepped for publication on Amazon KDP.
+
+
+## Note on Spriggan git:
+Spriggan (Tremble) was written without the benefit of git. So this
+directory does not have a git commit history up to the point of
+a final .md file. It was added to a git repo when it was published as
+an ebook, so the git commit history only covers that. Don't go looking
+for early versions of the story in the git commit history.
+
+
+
+
+## Note on posting to Literotica
+
+Use command in tech notes for vim to combine all lines of all paragraphs.
+
+Replace _underbars_ with html <i>tags</i>
+
+
+What horrors and pleasures lie in the heart of the woods?
+...PRETTY sure it's lie not lay.
+
+
+
+
