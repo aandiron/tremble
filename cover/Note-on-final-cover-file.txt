@@ -1,0 +1,21 @@
+Note-on-final-cover-file.txt
+Last modified: Tue Oct 13, 2020  01:36PM
+
+# Files of significance in this directory
+
+* setting-up-a-standing-book-cover.md
+	* Instructions for designing cover
+* 5x8-cover_flat.png
+	* Flat final version of cover
+* 5x8-cover_flat.svg
+	* Inkscape version of cover design
+* tim-mossholder-KX1BBNY69Ao-unsplash.jpg
+	* Original photo by Tim Mossholder
+* Tremble-cover_standing-book-5x8thin.xcf
+	* Gimp standing book mockup final file
+* Tremble-cover_standing-book-5x8thin.tiff
+	* Final standing book mockup, tiff version for Amazon KDP
+* Tremble-cover_standing-book-5x8thin.png
+	* Final standing book mockup, png version for ebook and everything else
+
+
