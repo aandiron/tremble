@@ -1,5 +1,5 @@
 README.md
-Last modified: Tue Oct 13, 2020  01:57PM
+Last modified: Wed Oct 21, 2020  11:06AM
 
 # Tremble the Flowering Wood — An erotic novelette
 * By A. Andiron
@@ -26,7 +26,7 @@ Last modified: Tue Oct 13, 2020  01:57PM
 * Compiled using pandoc-ebook-template:
 	* https://github.com/evangoer/pandoc-ebook-template
 * Standing book template for cover from covervault:
-	* https://covervault.com/tag/square/
+	* https://covervault.com/5-x-8-paperback-book-mockup-with-fewer-pages/
 * Sensual Enchantment version pushed to Medium with mdium:
 	* https://github.com/icyphox/mdium
 
